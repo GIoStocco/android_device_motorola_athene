@@ -112,8 +112,15 @@ PRODUCT_PACKAGES += \
 
 # CMActions
 PRODUCT_PACKAGES += \
-    CMActions
+    cmactions
 
+# OMS THEMEINTERFACER
+PRODUCT_PACKAGES += \
+   ThemeInterfacer
+
+PRODUCT_PROPERTY_OVERRIDES := \
+    ro.substratum.verified=true
+	
 # Display
 PRODUCT_PACKAGES += \
     gralloc.msm8952 \
