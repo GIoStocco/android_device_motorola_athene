@@ -105,9 +105,6 @@ PRODUCT_COPY_FILES +=  \
 PRODUCT_PACKAGES += \
     Gello
 
-#Amaze File Manager
-PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/prebuilts/AmazeFileManager-v3.1.2-beta-9.apk:system/priv-app/AmazeFileManager/AmazeFileManager.apk
 # Camera
 PRODUCT_PACKAGES += \
     libbson \
