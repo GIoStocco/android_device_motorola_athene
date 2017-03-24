@@ -108,7 +108,7 @@ PRODUCT_PACKAGES += \
 # Camera
 PRODUCT_PACKAGES += \
     libbson \
-    Snap
+	Snap
 
 # Gestures
 PRODUCT_PACKAGES += \

@@ -265,3 +265,6 @@ ro.config.alarm_alert=Oxygen.ogg
 ro.config.ringtone=Moto.ogg
 ro.config.notification_sound=Moto.ogg
 ro.cutoff_voltage_mv=3200
+
+#OTA Hexagon
+hex.updater.uri=https://raw.githubusercontent.com/HexagonRom/HexUpdate_API/hex-7.1/athene.json
