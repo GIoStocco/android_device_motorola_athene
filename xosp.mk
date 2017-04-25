@@ -33,3 +33,6 @@ PRODUCT_NAME := xosp_athene
 PRODUCT_BRAND := Motorola
 PRODUCT_MANUFACTURER := Motorola
 PRODUCT_RELEASE_NAME := athene
+
+#ROOT
+ROOT_METHOD := magisk
